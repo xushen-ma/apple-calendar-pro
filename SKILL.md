@@ -1,6 +1,6 @@
 ---
 name: apple-calendar-pro
-description: iCloud Calendar skill via CalDAV (RFC 4791) — works on macOS, Linux, and Windows. Supports event CRUD, multi-calendar queries, managed attachments (RFC 8607), and free/busy lookups.
+description: iCloud Calendar skill via CalDAV (RFC 4791) — works on macOS and Linux. Supports event CRUD, multi-calendar queries, managed attachments (RFC 8607), and free/busy lookups.
 homepage: https://github.com/xushen-ma/apple-calendar-pro
 metadata: {"openclaw":{"requires":{"bins":["python3"],"env":["APPLECAL_PASSWORD"]},"primaryEnv":"APPLECAL_PASSWORD"}}
 ---

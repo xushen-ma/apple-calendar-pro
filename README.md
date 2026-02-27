@@ -1,6 +1,6 @@
 # apple-calendar-pro
 
-Manage Apple Calendar from any platform — macOS, Linux, or Windows.
+Manage Apple Calendar from macOS and Linux.
 
 Connects to iCloud Calendar over CalDAV (RFC 4791) with iPhone-compatible attachment support (RFC 8607).
 
@@ -26,7 +26,7 @@ Sign in at [appleid.apple.com](https://appleid.apple.com) → **Sign-In and Secu
 
 ### 3. Configure authentication
 
-**Option A — Environment variable** *(macOS, Linux, Windows, CI)*
+**Option A — Environment variable** *(macOS, Linux, CI)*
 ```bash
 export APPLECAL_PASSWORD="your-app-specific-password"
 ```
